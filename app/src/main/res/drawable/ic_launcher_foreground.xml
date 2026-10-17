@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glowing background accent diamond -->
+    <path
+        android:fillColor="#155E75"
+        android:pathData="M54,26 L78,54 L54,82 L30,54 Z" />
+    <!-- Outer Focus/Priority Target Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M35,35 A26,26 0 1,1 73,35" />
+    <!-- Three priority indicator dots for G, U, T -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M35,32 A3.5,3.5 0 1,1 35,39 A3.5,3.5 0 1,1 35,32" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,23 A3.5,3.5 0 1,1 54,30 A3.5,3.5 0 1,1 54,23" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M73,32 A3.5,3.5 0 1,1 73,39 A3.5,3.5 0 1,1 73,32" />
+    <!-- Central Energetic Flow Arrow / Checkmark -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,53 L51,61 L68,44 L72,48 L51,69 L40,57 Z" />
+    <!-- Energy Sparkle atop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40 L55.5,46 L61.5,47.5 L55.5,49 L54,55 L52.5,49 L46.5,47.5 L52.5,46 Z" />
+</vector>

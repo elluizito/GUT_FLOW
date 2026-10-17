@@ -1,0 +1,6 @@
+{
+  "name": "GUTFlow",
+  "description": "Central de missão pessoal e priorização visual com a Matriz GUT, gamificação contemporânea e modo foco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
